@@ -1,0 +1,68 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": "amit",
+      "lastName": "kumar",
+      "email": "amit@gmail.com",
+      "mobile": "8899009898",
+      "salary": "6000"
+    },
+    {
+      "id": 4,
+      "firstName": "kalo",
+      "lastName": "klll",
+      "email": "yhj@yahoo.com",
+      "mobile": "9090898978",
+      "salary": "89009"
+    },
+    {
+      "id": 5,
+      "firstName": "shivani",
+      "lastName": "verma",
+      "email": "sivani@yahoo.com",
+      "mobile": "8899008989",
+      "salary": "80000"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Rafaqat ALi",
+      "email": "ali.rafaqat4@gmail.com",
+      "password": "12345",
+      "mobile": 8802005736,
+      "id": 1
+    },
+    {
+      "fullname": "tejha",
+      "email": "tejha@hotmail.com",
+      "password": "1010",
+      "mobile": 898900898,
+      "id": 2
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 3
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 4
+    },
+    {
+      "fullname": "dddd",
+      "email": "aaaa",
+      "password": "111",
+      "mobile": 999000990,
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
